@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...1984<br>📚 I'm currently learning ... Angular and C#<br>🎯 Goals: ... get a job as dev<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...1984<br>📚 I'm currently learning ... Angular, Dart & Flutter<br>🎯 Goals: ... get a job as dev<br>🎲 Fun fact: ...</p>
 
 ###
 
