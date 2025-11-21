@@ -2,7 +2,20 @@
 
 ###
 
-📌My name is Meik and I'm a developer from Kassel, Germany.
+📌The Statement
+
+🎯 Meik Behr | Frontend Developer with Process Focus
+⚙️ 25 Years of CNC Logic Meet Angular & TypeScript.
+
+💼 Profile & Expertise
+Industrial Background: Operational business management and hands-on CNC programming (Siemens 840D, Maho 432) for over 25 years.
+Current Focus: Frontend Engineering (Angular, TypeScript, Flutter) – I bridge industrial process logic with modern software solutions.
+Strength: I deliver robust code built on a deep, real-world understanding of manufacturing processes and business efficiency.
+
+🤝 Availability & Contact
+Part-Time Availability: Seeking stable engagement of 20 – 30 hours/week.
+
+Location: Kassel Region / Remote options.
 
 ###
 
