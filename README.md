@@ -2,24 +2,30 @@
 
 ###
 
-📌The Statement
+🎯 I'm Meik Behr
 
-🎯 Meik Behr | Frontend Developer with Process Focus
-⚙️ 25 Years of CNC Logic Meet Angular & TypeScript.
+## Frontend Developer with strong process & industry background
+⚙️ 25 years of industrial process logic combined with modern frontend development.
 
-💼 Profile & Expertise
-Industrial Background: Operational business management and hands-on CNC programming (Siemens 840D, Maho 432) for over 25 years.
-Current Focus: Frontend Engineering (Angular, TypeScript, Flutter) – I bridge industrial process logic with modern software solutions.
-Strength: I deliver robust code built on a deep, real-world understanding of manufacturing processes and business efficiency.
+Frontend Developer with over 25 years of professional experience in industrial operations, production processes and quality management.  
+Today I build reliable and user-focused web applications with **Angular, TypeScript and JavaScript** – combining clean frontend engineering with real-world process logic.
 
-🤝 Availability & Contact
-Part-Time Availability: Seeking stable engagement of 20 – 30 hours/week.
+I specialize in translating complex workflows into structured, maintainable and efficient web applications.
+<br><br>
 
-Location: Kassel Region / Remote options.
+
+## 💼 Focus & Strengths
+- Frontend Development with Angular & TypeScript
+- Clean, maintainable and testable code
+- Strong understanding of business processes & workflows
+- High attention to usability, performance and robustness
+<br><br>
+
 
 ###
 
-<h3>My technical skills are</h3>
+<h3>🛠 Tech Stack</h3>
+
 <table style="border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%; border: none;">
@@ -38,40 +44,24 @@ Location: Kassel Region / Remote options.
     </td>
   </tr>
 </table>
+<br><br>
+###
 
+## ✅ Availability
+Open for **part-time remote or hybrid positions (20–30h/week)**.
+
+📍 Location: Kassel region, Germany  
+🌍 Remote: Available
+
+###
+<br><br>
+## 📫 Contact
+- Discord: @meik.behr  
+- GitHub: https://github.com/MeikBehr  
+- Portfolio: https://develobehr.de
 
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...1984<br>📚 I'm currently learning ... Angular, Dart & Flutter<br>🎯 Goals: ... get a job as dev<br>🎲 Fun fact: ...</p>
-
-###
-
-
-<h2 align="left">Contact me</h2>
-
-<table style="border: none; width: 100%;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
-    </td>
-    <td align="center top" style="border: none;">
-      <a href="mailto:info@develobehr.de" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <span>@meik.behr</span>
-    </td>
-    <td style="border: none;"></td>
-  </tr>
-</table>
 
 
 ###
