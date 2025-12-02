@@ -60,7 +60,7 @@ Location: Kassel Region / Remote options.
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
     </td>
     <td align="center top" style="border: none;">
-      <a href="mailto:dev.behr@gmx.de" target="_blank">
+      <a href="mailto:info@develobehr.de" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
       </a>
     </td>
